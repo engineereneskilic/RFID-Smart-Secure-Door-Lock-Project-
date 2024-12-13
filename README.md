@@ -1,6 +1,8 @@
 # Smart-Secure Door Lock Project
 ![**Smart-Secure Door Lock Project (Image)**](Smart-Secure-Door-Project.JPG)  
 
+### Project Presentation Video: https://drive.google.com/file/d/1Ibhizj72XiGm6Ss7tXVC5dR3_SL5nirm/view?usp=drive_link
+
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Technologies Used](#technologies-used)
