@@ -1,5 +1,5 @@
 # Smart-Secure Door Lock Project
-![**Smart-Secure Door Lock Project (Image)**](Smart-Secure-Door-Project.jpg)  
+![**Smart-Secure Door Lock Project (Image)**](Smart-Secure-Door-Project.JPG)  
 
 ## Table of Contents
 1. [Introduction](#introduction)
